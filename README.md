@@ -10,7 +10,7 @@
 ### Links
 
 - Solution URL: (https://github.com/Kinsman-clinton-enu/qr-component.git)
-- Live Site URL: (http://127.0.0.1:5500/qr-code-component-main/index.html#)
+- Live Site URL: (t https://kinsman-clinton-enu.github.io/qr-component/)
 
 ## My process
 
