@@ -51,8 +51,8 @@ I  really want focus on the responsiveness of this project.
 ## Author
 
 - Website - [Enu Clinton Enu](https://enutech.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/@kinsman0418)
+- Frontend Mentor - [@kinsman-clinton-enu](https://www.frontendmentor.io/profile/yourusername)
+- Twitter - [@kinsman0418](https://www.twitter.com/@kinsman0418)
 
 
 
