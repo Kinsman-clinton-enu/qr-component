@@ -43,7 +43,7 @@ I  really want focus on the responsiveness of this project.
 
 ### Useful resources
 
-- [Example resource 1](https://fonts.googleapis.com) - it helped alot on how to use google fonts for this project.
+- [https://fonts.googleapis.com](https://fonts.googleapis.com) - it helped alot on how to use google fonts for this project.
 
 
 ## Author
