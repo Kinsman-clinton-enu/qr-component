@@ -46,8 +46,6 @@ I  really want focus on the responsiveness of this project.
 - [Example resource 1](https://fonts.googleapis.com) - it helped alot on how to use google fonts for this project.
 
 
-**Note: Delete this note and replace the list above with resources that helped you during the challenge. These could come in handy for anyone viewing your solution or for yourself when you look back on this project in the future.**
-
 ## Author
 
 - Website - [Enu Clinton Enu](https://enutech.com)
