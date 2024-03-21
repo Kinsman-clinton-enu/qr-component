@@ -32,9 +32,6 @@ body {
 ```
 
 
-If you want more help with writing markdown, we'd recommend checking out [The Markdown Guide](https://www.markdownguide.org/) to learn more.
-
-
 ### Continued development
 
 I  really want focus on the responsiveness of this project.
